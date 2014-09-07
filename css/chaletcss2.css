@@ -1,7 +1,7 @@
 .paddingtop{ padding-top: 90px;
 
 }
-body{color: #ffffff;
+body{color: #333333;
     background-color: #333333;}
 .pleft {text-align: left;}
 
@@ -14,7 +14,7 @@ a{color:white}
     margin-left:6vw;
     margin-right:6vw;
 }
-.content-content{background-color: gray; text-align: center}
+.content-content{background-color: #ffffff; text-align: center}
 
 .div-content {
     padding-top:15px;
@@ -29,7 +29,7 @@ a{color:white}
 h1, h2, h3, h4, h5, h6 {
     text-transform: none;
     font-family:Arial;
-    color: #ffffff;
+
 }
 
 .orbitmargin {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 .bigh1 {
     color:white;
     font-size: 4vw;
-}
+    }
 
 .mediumh1 {color:white; font-size: 2.8vw}
 

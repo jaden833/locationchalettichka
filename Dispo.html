@@ -1,5 +1,7 @@
+
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
 
@@ -10,7 +12,7 @@
     <meta name="author" content="Joseph Risson">
     <meta name="Keywords" content="chalet,location,ski,sybelles,St jean d'arves, sorlin d'arves, personnes,homelidays">
 
-    <title>Disponibilités - Tarifs Tichka</title>
+    <title>Location - Chalet Tichka - St Jean d'Arves</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -21,31 +23,54 @@
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <link href="css/chaletcss.css" rel="stylesheet">
     <link rel="stylesheet" href="css/foundation.css" />
     <script src="js/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
 
     <script src="js/foundation.orbit.js"></script>
+    <link href="css/chaletcss.css" rel="stylesheet">
+
 
 
 </head>
-<body class="body-background">
 
-<div class="fixed padding-content">
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <nav class="top-bar" data-topbar role="navigation">
+
+
+
+<div class="content-content margin-content">
+    <section id="Dispo.html" class="paddingtop">
+        <div>
+            <div class="container">
+                <div class="col-lg-12 col-lg-offset-0">
+                    <h2>Disponibilité et tarifs</h2>
+
+                    <iframe style="width:79%; height:425px;" frameborder="0" src="https://spreadsheets.google.com/spreadsheet/pub?key=0AqlchwZCrnnOdDZlbEIwcUFPTzZ4SldmYmNDYVdwcUE&amp;chrome=false&amp;gid=0">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+<div class="padding-content fixed ">
+
+    <nav class="contain-to-grid top-bar" data-topbar role="navigation">
 
         <ul class="title-area">
             <li class="name">
-                <h1><a href="index.html">Accueil Chalet</a></h1>
+                <h1><a class="page-scroll" href="index.html#page-top">Accueil Chalet <span class="visible-for-small-only">Tichka</span></a></h1>
             </li>
             <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
         </ul>
 
         <section class="top-bar-section">
             <ul class="left">
-                <li><a href="photo.html">Photos</a></li>
+                <li><a href="photo.html">Autres photos</a></li>
                 <li><a href="Dispo.html">Dispo/Tarifs</a></li>
             </ul>
 
@@ -77,28 +102,44 @@
     </nav>
 </div>
 
-<div class="div-content margin-content">
-<section id="Dispo" class="paddingtop">
-    <div>
-        <div class="container">
-            <div class="col-lg-12 col-lg-offset-0">
-                <h2>Disponibilité et tarifs</h2>
 
-                <iframe style="width:79%; height:425px;" frameborder="0" src="https://spreadsheets.google.com/spreadsheet/pub?key=0AqlchwZCrnnOdDZlbEIwcUFPTzZ4SldmYmNDYVdwcUE&amp;chrome=false&amp;gid=0">
-                </iframe>
-            </div>
-        </div>
+
+
+<footer>
+    <div>
+        <button type="button" class="button-photo"><a  href="photo.html">Autres photos...</a></button>
+
+        <p class="margincopyright">Copyright &copy; AJA's Website 2014</p>
     </div>
-</section>
+</footer>
+
 </div>
 
+
 <script src="js/jquery.js"></script>
-
+<script src="js/foundation.min.js"></script>
 <script src="grayscale/js/bootstrap.min.js"></script>
-
 <script src="js/jquery.easing.min.js"></script>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
 
 <script src="js/grayscale.js"></script>
+
+
+<script>
+    $(document).foundation();
+
+    $(document).foundation({
+        orbit: {
+            animation: 'slide',
+            timer_speed: 10,
+            pause_on_hover: true,
+            animation_speed: 50,
+            navigation_arrows: true,
+            bullets: false
+        }
+    });
+</script>
 </body>
+
+</html>
