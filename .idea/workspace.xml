@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6313f45-ff6c-42ae-8726-1fa3110b5c77" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0397.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0062.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0062.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0373.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0373.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0374.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0374.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0375.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0375.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0378.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0378.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0379.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0379.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0380.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0380.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0381.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0381.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0383.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0383.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0384.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0384.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0385.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0385.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0388.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0388.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0390.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0390.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0392.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0392.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0394.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0394.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0396.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0396.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-DSC_0399.JPG" afterPath="$PROJECT_DIR$/photo/r-new-DSC_0399.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-IMG_0822.JPG" afterPath="$PROJECT_DIR$/photo/r-new-IMG_0822.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-IMG_0823.JPG" afterPath="$PROJECT_DIR$/photo/r-new-IMG_0823.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo/r-new-vaches.JPG" afterPath="$PROJECT_DIR$/photo/r-new-vaches.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dispo.html" afterPath="$PROJECT_DIR$/Dispo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/chaletcss.css" afterPath="$PROJECT_DIR$/css/chaletcss.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photo.html" afterPath="$PROJECT_DIR$/photo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chalet.iws" />
@@ -83,16 +60,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sectional.rnc" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/sectional.rnc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2295">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="r-new-DSC_0383.JPG" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/photo/r-new-DSC_0383.JPG">
           <provider selected="true" editor-type-id="images">
@@ -115,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chaletcss.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="chaletcss.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/chaletcss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28846154" vertical-offset="0" max-vertical-offset="1245">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state vertical-scroll-proportion="-17.307692" vertical-offset="0" max-vertical-offset="1245">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,14 +102,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dispo.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Dispo.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dispo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.64" vertical-offset="153" max-vertical-offset="870">
-              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.6594595" vertical-offset="127" max-vertical-offset="1035">
+              <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
               <folding>
                 <element signature="tag#nav#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#section#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -205,8 +171,8 @@
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/photo.html" />
-        <option value="$PROJECT_DIR$/Dispo.html" />
         <option value="$PROJECT_DIR$/css/chaletcss.css" />
+        <option value="$PROJECT_DIR$/Dispo.html" />
       </list>
     </option>
   </component>
@@ -247,30 +213,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Chalet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chalet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locationchalettichka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chalet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="locationchalettichka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -440,7 +382,11 @@
       <created>1409954401918</created>
       <updated>1409954401918</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="version 2">
+      <created>1410113145222</created>
+      <updated>1410113145222</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -449,22 +395,22 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39951864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32851985" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32851985" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3273165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -491,7 +437,8 @@
     <MESSAGE value="Dispo.html supprimé     fini a part texte photo" />
     <MESSAGE value="modification textes" />
     <MESSAGE value="correction bug hr" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction bug hr" />
+    <MESSAGE value="version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1019,6 +966,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375" vertical-offset="195" max-vertical-offset="1455">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/chaletcss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.307692" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-20.0" vertical-offset="210" max-vertical-offset="3810">
@@ -1050,35 +1018,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/photo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375" vertical-offset="195" max-vertical-offset="1455">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dispo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.64" vertical-offset="153" max-vertical-offset="870">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.6594595" vertical-offset="127" max-vertical-offset="1035">
+          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
           <folding>
             <element signature="tag#nav#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/chaletcss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28846154" vertical-offset="0" max-vertical-offset="1245">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
