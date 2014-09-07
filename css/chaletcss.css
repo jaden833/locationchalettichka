@@ -1,7 +1,38 @@
-.paddingtop{ padding-top: 120px;
+.paddingtop{ padding-top: 90px;
 
 
 }
+.body-background{
+    background-color: darkgray;
+}
+a{color:darkblue}
+.margin-content {
+    margin-left:6vw;
+    margin-right:6vw;
+}
+.div-content {
+    padding-top:15px;
+    background-color: grey;
+    text-align: center;
+}
+.padding-content {
+    padding-left:6vw;
+    padding-right:6vw;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: none;
+    font-family: Arial;
+}
+
+.orbitmargin {
+    margin-left:6vw;
+    margin-right:6vw;
+
+}
+.orbit-border{border:5px solid #333333;}
+
+
 .bigh1 {
     color:white;
     font-size: 4vw;
@@ -13,9 +44,17 @@
 
 .textintro {color:white; font-size: 2.1vw}
 
-.smallp {font-size:1.6}
+.smallp {font-size:1.6vw}
 
-.white {color: white}
+.navbar-custom .navbar-brand .navbar-toggle {
+    padding: 4px 6px;
+    font-size: 16px;
+    color: darkgray;
+}
+
+
+
+.white {color: #000000}
 .lightness{
     opacity: 0.7;
     background-color: black;
