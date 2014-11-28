@@ -1,3 +1,3 @@
 locationchalettichka
 ====================
-Ce site a été fait avec bootstrap twitter (grayscale) il a été fait pour le chalet tichka
+Ce site vitrine a été fait par Joseph Risson avec Bootstrap et foundation pour le chalet Tichka.
